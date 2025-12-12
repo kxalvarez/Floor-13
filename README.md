@@ -1,2 +1,2 @@
 # Floor-13
-Floor 13 is a Python text-based horror game
+Floor 13 is a text-based horror RPG where the player becomes trapped on the mysterious and shifting 13th floor of an abandoned corporate building. To escape, players must explore thirteen procedurally dangerous rooms, fight mutated enemies, collect map fragments, and uncover hidden endings. A branching story, weapon-switching system, flashlight mechanic, and boss battle combine to create a tense, choice-based experience.
